@@ -1,4 +1,4 @@
-# 📊 Final Project: Business Opportunity Analysis – Global Superstore
+# Final Project: Business Opportunity Analysis – Global Superstore
 
 ## Overview
 
@@ -7,7 +7,7 @@ This project analyzes sales and profit data from the **Global Superstore** datas
 The final outcome includes a structured database schema, SQL insights, a business presentation, and supporting documentation.
 
 
-## 🔍 Objectives
+## Objectives
 
 - Identify profitable product subcategories
 - Analyze the impact of discounts on profit
@@ -15,14 +15,14 @@ The final outcome includes a structured database schema, SQL insights, a busines
 - Recommend actionable strategies for pricing and inventory
 
 
-## 🧱 Database Design Summary
+## Database Design Summary
 
 - **Primary table**: `orderdetails` – central to all analysis
 - **Total tables**: 7 normalized tables in 3NF
 - **ERD**: See `database_report.md` for full diagram and table relationships
 
 
-## 💡 Key Insights
+## Key Insights
 
 1. **Bookcases** are the most profitable subcategory
 2. **Small discounts (7–10%)** yield higher profit than full price
@@ -32,7 +32,7 @@ The final outcome includes a structured database schema, SQL insights, a busines
 6. **Top customers** contribute significantly to total profit
 
 
-## 📊 Tools Used
+## Tools Used
 
 - MySQL
 - Python (for visualization)
@@ -40,7 +40,7 @@ The final outcome includes a structured database schema, SQL insights, a busines
 - PowerPoint / Google Slides
 
 
-## 👤 Author
+## Author
 
 Zhile Wu <br>
 University of Michigan <br>
